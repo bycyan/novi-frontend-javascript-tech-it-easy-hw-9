@@ -1,0 +1,36 @@
+#items-sold h2{
+    color: green;
+}
+
+#items-bought h2{
+    color: blue;
+}
+
+#items-to-Sell{
+    color: red;
+}
+
+button{
+    padding: 20px;
+    color: black;
+    border: none;
+    border-radius: 20px;
+}
+
+button:focus{
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
+
+section{
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#inventory-models, li{
+    list-style: none;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 20px;
+}
